@@ -75,12 +75,3 @@ $ yarn run test:e2e
 # test coverage
 $ yarn run test:cov
 ```
-
-## Support
-
-
-## Stay in touch
-
-
-## License
-
